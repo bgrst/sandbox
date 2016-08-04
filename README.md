@@ -1,4 +1,4 @@
-####dear GiTSirs, i've never coded and now I need help
+##dear GiTSirs, i've never coded and now I need help
 about me: woman, human, do not know notes, but love music; do not sew but enjoy clothing, so hopefully...
 ## now I need your advice for my hello world project (imma lack of skills):
 - one image should be inserted like the one below, better is to give an external img link or to store it somewhere inside this project in a say repository? Unix Mint is my OS,alas :(
